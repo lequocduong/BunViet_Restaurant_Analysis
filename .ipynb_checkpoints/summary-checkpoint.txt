@@ -1,0 +1,38 @@
+Target:
+- Visualize the dashboard - 1 dashboard/ weeks 
+- Data storage --> back up file 
+- Deadline: 17/12 (1st Dashboard)
+
+Data: type 
+Classical Cashier : (Write the notes and Calculate the menu)
+
+Time working : 
+- 1h30
+- 45'
+
+columns = [
+    'Time',      # 12/06/2023
+    'Session',   # midi(m)/ soir(s)    
+    'Sale Types' # emporter(e) / surplace(s) / livraison(l)
+    'BO BUN',    # Boeuf(b), poulet(plg), cha la lot(ll), crevets(cv), tofu(tf)
+    'Bo BUN N',
+    'COM',       # boeuf(b)/ poulet(plg) / porc caramel(pc)/ ll / tofu(tf)
+    'MiTron',    # Mi tron
+    'MiXao',     # boeuf(b)/ tofu(tf)/ crevets (cv)
+    'SOUPE',     # pho
+    'NEMS',      # porc(p) ou poulet(pl)
+    'SALAD',     # vegan(v), boeuf(b), crevets
+    'ROULEAU',   # crevets(cv)/ boeuf(b)
+    'DESSERTS',  # mousse(m) / salad(s) /nougats(n)/ gateaux (g)
+    'BOISSONS',  # Bubble tea(bt)- sodas(sd) - eau(e) - eau gazeuse(eg) -fruit(f) - coco(cc)- Tsingtao(bc) - Leffe(bl)
+]
+
+Stage:
+- Data collecting (done) -> Out: csv file
+- Data Processing --> File .ipynb
+- Dashboard generation --> Dashboard
+
+Output Dashboar: 
+- Income of week (done)
+- The number of selling products (done)
+- Detailing the purchase (done)
